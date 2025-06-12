@@ -28,6 +28,7 @@ html {
 
 p{
     color: var(--color-font-primary) ;
+    line-height: 1.5;
 }
 
 body{
